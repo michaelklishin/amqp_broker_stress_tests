@@ -19,7 +19,7 @@ and then pull down dependencies from the repository root:
 
 Run them prefixed with bundle exec:
 
-    bundle exec ./script/[script name].rb
+    bundle exec ./scripts/[script name].rb
 
 
 
