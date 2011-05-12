@@ -1,0 +1,11 @@
+/*.gem
+*.rbc
+~*
+#*
+*~
+.rvmrc
+.bundle
+Gemfile.lock
+
+tmp/*
+vendor/bundle/*
