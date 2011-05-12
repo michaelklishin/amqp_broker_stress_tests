@@ -23,7 +23,7 @@ Run them prefixed with bundle exec:
 
 
 
-h2. License
+## License ##
 
 Copyright (c) 2011, Michael S. Klishin
 
