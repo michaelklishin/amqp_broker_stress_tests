@@ -1,11 +1,11 @@
-h1. RabbitMQ stress tests
+# AMQP broker stress tests #
 
-h2. Getting started
+## Getting started ##
 
-You'd need to have Ruby and RubyGems installed. The recommended way is RVM since it is completely
+You'd need to have Ruby and RubyGems installed. The recommended way is [RVM](https://rvm.beginrescueend.com/) since it is completely
 isolated from the rest of the system and can be wiped out with one command (rvm implode).
 
-Given you have Ruby 1.9.2 (it comes with RubyGems out of the box) installed via RVM, install Bundler:
+Given you have Ruby 1.9.2 (it comes with RubyGems out of the box) installed via RVM, install [Bundler](http://gembundler.com/):
 
     gem install bundler
 
@@ -15,7 +15,7 @@ and then pull down dependencies from the repository root:
 
 
 
-h2. Running scripts
+## Running scripts ##
 
 Run them prefixed with bundle exec:
 
